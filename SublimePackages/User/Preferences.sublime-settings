@@ -1,9 +1,9 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme",
-	"save_on_focus_lost": true
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme"
 }
