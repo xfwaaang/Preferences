@@ -1,2 +1,2 @@
 # Preferences
-preferences or settings of IDE and Editor
+preferences and settings of IDE and Editor
